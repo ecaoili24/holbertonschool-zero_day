@@ -14,7 +14,4 @@ Who maintains and contributes to the project:
 
 
 # holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
+
