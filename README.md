@@ -1,3 +1,4 @@
+What to include in your README file:
 
 What the project does: Create and setup your Git and Github account
  
@@ -9,9 +10,6 @@ git, and add the remote origin
 Where users can get help with your project: 
 
 Who maintains and contributes to the project: 
-
-
-
 
 # holbertonschool-zero_day
 
