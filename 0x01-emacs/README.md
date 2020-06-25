@@ -1,1 +1,5 @@
-The project creates another directory in the repo and adds files.
+## Emacs 
+
+## Concepts
+
+[A Guided Tour of Emacs](https://www.gnu.org/software/emacs/tour/)
